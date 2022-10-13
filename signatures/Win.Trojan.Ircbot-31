@@ -1,6 +1,6 @@
-VIRUS NAME: Win.Trojan.IRCBot-31
-TARGET TYPE: ANY FILE
-OFFSET: *
+VIRUS NAME: Win.Trojan.Ircbot-31
+TARGET TYPE: PE
+OFFSET: S0+36339
 DECODED SIGNATURE:
-îäÎ/öÌ·[½NÍ;fr-îo@îìxo‚{ŒÛ<Üñîhw+Rv!¯÷e2ûz©tð
-&~@»ÛQ«ÂõŒmolæÞ3îõwFgg{ûÛ×ÎSjŸÌwéíÃ³Þ½=íÍo÷ú{|)Ð¢›Û–«ðÿ´Ïñ"žéÿ|ˆE]Û3ng Iÿà,¬øY–NÿqS¹,s»$ããÚtd¡
+ý^7L(DKY
+3—ð‡–H<pTý±–ÁKÇÎO»*M<U"ÁÇMBéò“Ù~ŽçÕþÔHÏÐ¨‘òYÇÒÚ·0äE„FÕÜÚ_êÑüK²³Ç iËLB¶ãéK„Í0¦TÈwèW´Ÿ™nÜÍðlàË_GU„Ÿ»:â[ÜÕDzG‡ßp•ÕX´V˜ºwâ•°Ò

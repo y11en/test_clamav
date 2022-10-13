@@ -1,5 +1,5 @@
-VIRUS NAME: Win.Trojan.Rem-1
-TARGET TYPE: NORMALIZED ASCII TEXT
+VIRUS NAME: Win.Trojan.REM-1
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-rem-worm{WILDCARD_ANY_STRING}%comspec% nul /f /c{WILDCARD_ANY_STRING}copy /b %0+%0.bat %%q
+`ÿÿ=!

@@ -1,5 +1,6 @@
-VIRUS NAME: Win.Trojan.Sdbot-20
-TARGET TYPE: PE
+VIRUS NAME: Win.Trojan.SdBot-20
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-¤â>ö¨ÐÛ¨%šø{vÁ6zB52{ÿ64Cƒ6aB~3TCþ2=&L3QM,Æ“-Ÿ;¯‚†™ð0ˆÆ¬ª59Pr¼sákÆF°è´fhH*½Ûýd˜QR‘žÞ€Ç}ŸPysÎtÇ˜XÅ|5_ô“y‰ôãŠ·U…ª$Ð+
+é%.TkQ‚À¥"®7x¦2¤ƒtÁ1G” 7sx)'K¶õur	e<Â9ñÝÈFjÅOY(0fqÒÂŸYR@BTyIA¹ùö¼Æ÷6GŸo‘*Ÿ”{êÊÂMXZ°áO>ûeQ	îž¿_‹Á5¸¾Ão­ÙìZS¾?%^É'ÕR+Ü
+`vL

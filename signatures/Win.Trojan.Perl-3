@@ -1,7 +1,5 @@
-VIRUS NAME: Win.Trojan.PERL-3
+VIRUS NAME: Win.Trojan.Perl-3
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-f ((@Lithium[1] =~ "Nirvana") or (@Lithium[2] =~ "Nirvana"))
-    {
-      if((@Lithium[0] =~ "perl",,i) or (@Lithium[1] =~ "
+print "<HEAD><TITLE>Cruel-Intentionz Cgi Server Logger v2</Title>\n";

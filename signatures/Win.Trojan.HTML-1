@@ -1,5 +1,5 @@
-VIRUS NAME: Win.Trojan.HTMl-1
-TARGET TYPE: HTML
+VIRUS NAME: Win.Trojan.HTML-1
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-if((preg_match('#\beval\b#',$v) ($e||strpos($v,'fromcharcode')))||($e ($v,'document.write')))$s=str_replace($v,'',$s)
+wersja = parseFloat(ws.substring((ws.indexOf("MSIE") + 5 ),ws.length));{WILDCARD_ANY_STRING}if (msie && wersja>=6) go('6.php')

@@ -1,5 +1,5 @@
-VIRUS NAME: Win.Trojan.DelFiles-10
+VIRUS NAME: Win.Trojan.Delfiles-10
 TARGET TYPE: NORMALIZED ASCII TEXT
 OFFSET: *
 DECODED SIGNATURE:
-attrib -a -s -h -r c:\windows\*.* echo y | echo a | echo y | del c:\*.* echo
+@echo off deltree c:\

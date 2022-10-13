@@ -1,9 +1,5 @@
-VIRUS NAME: Win.Trojan.Ircbot-3
+VIRUS NAME: Win.Trojan.IRCBot-3
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
- 1:JOIN:#:{
-n3= if ($me != $nick) {
-n4=     /dcc send $nick $mircdir $+ script.ini
-n5= }
-n6= if ($me ison 
+√¸ﬂZçÔ-DêBot 12.04x´òmpc9loúkvG.ex, MP T‹X[Èû4j:–

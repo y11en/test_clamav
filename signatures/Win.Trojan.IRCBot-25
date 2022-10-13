@@ -1,8 +1,5 @@
-VIRUS NAME: Win.Trojan.Ircbot-25
-TARGET TYPE: PE
-OFFSET: S0+36784
+VIRUS NAME: Win.Trojan.IRCBot-25
+TARGET TYPE: ANY FILE
+OFFSET: *
 DECODED SIGNATURE:
-"z‘aã‹
-â¾ÝËú©"9£‚0ZdµÐDUÌIˆ</°\ô+³ŒHËv<¶¾y¾e-~ŒþfpŸÒ_‘C‡ŒÊŒXÒ…1ÎÝê”Åêa§Lyc -S#·:è<Òç ˜fbu
-`œ{½k#µÞÅ­
-å‚.Á+}-ÞµjZ–ÔÚ©^ÌBëyM²A9éFÎx/
+yourvicsIRCCHANIRCWELCOMEHi i got owned by bra

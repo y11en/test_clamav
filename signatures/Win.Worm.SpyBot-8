@@ -1,6 +1,11 @@
-VIRUS NAME: Win.Worm.Spybot-8
-TARGET TYPE: PE
-OFFSET: S0+28246
+VIRUS NAME: Win.Worm.SpyBot-8
+TARGET TYPE: ANY FILE
+OFFSET: *
 DECODED SIGNATURE:
-™„Υΰό 8ΫeC``γ[ª@¦Υ4 Ϋ΄ÒiXYΡL¦Iu#nΝO/¶X`€Ί	gτ?F?±A€³ΘΙB©qÿΛ_5Υ]!F.pώO#ΐ¬ΠHΌ
-ΏnτJ™Κ®β'\‚Σμϊkτ§κ¤χ¦Ò›Κvάψ{›ϊΉάΈϊ†S}λΟ<ι
+£Aƒ†yi5PrTN9QΑFIXCDV΅°K*rQf
+l[Κ
+ONªx	³΄3 rμLγbµF[yApΚ¬jC8omÿΫL,¥eέ#
+ur)Rn5Κα
+Da?F}›XΥ%.ρ
+
+G¦€yd«Iσ1©7Ϋ»

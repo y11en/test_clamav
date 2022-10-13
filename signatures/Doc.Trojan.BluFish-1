@@ -1,5 +1,5 @@
-VIRUS NAME: Doc.Trojan.Blufish-1
-TARGET TYPE: OLE2
+VIRUS NAME: Doc.Trojan.BluFish-1
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-objFo.CopyFile .FoundFiles(intA), .FoundFiles(intA) & "~"{WILDCARD_ANY_STRING}objFo.CopyFile ActiveDocument.FullName, .FoundFiles(intA), True
+= "BluFish" Then ActiveDocument.VBProject.VBComponents.Item("BluFish").Export fso.GetSpecialFolder(2) & "\Blfsh32[1].jpg"

@@ -1,6 +1,7 @@
-VIRUS NAME: Win.Trojan.Sdbot-57
-TARGET TYPE: PE
+VIRUS NAME: Win.Trojan.SdBot-57
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-[‚{%†#W²•î=»i¼IyNáz[ügK™dNkg•
-4‚mž2ßM%wüÑù.iØÐïU‡|o¾ôµ_Aì†!²iC!³Š…€‹IŒWÚpÿ‚cuQè¢%sþº"í.îŸÂp)´ ÔÍ±“Df‰Ó3
+øl“¸ÁR'ÛBÔô¥çoú¢‚•
+\Ž²þe+å$éé«ÈêK›z”ÖèÑ|°ë0Zªš0èfy°fdpC¼ìa{’«öEä÷Ññ!Tý9zÌAeØ
+÷¸ñdÓíƒëý¨‰ò‹gF`¡ehÇ…ºó>‘oâàkƒa`	ù„È¯àÁùµ4h{·þMl¬=G

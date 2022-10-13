@@ -1,5 +1,7 @@
-VIRUS NAME: Win.Trojan.KillFiles-32
-TARGET TYPE: NORMALIZED ASCII TEXT
+VIRUS NAME: Win.Trojan.Killfiles-32
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-ren c:\autoexec.bat pepec.ban ren c:\windows\win.com won.cam
+del C:\autoexec.bat
+del C:\windows\win.com
+del C:\windows\command\mscdex.exe

@@ -1,5 +1,5 @@
-VIRUS NAME: Doc.Trojan.CoolDown-1
+VIRUS NAME: Doc.Trojan.Cooldown-1
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-.Find("Cool"{WILDCARD_ANY_STRING}ReplaceWith:="залуп",
+Private Sub CoolDown(How{WILDCARD_ANY_STRING}Find("Cool

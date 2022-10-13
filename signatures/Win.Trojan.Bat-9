@@ -1,8 +1,12 @@
-VIRUS NAME: Win.Trojan.BAT-9
+VIRUS NAME: Win.Trojan.Bat-9
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-V_1
-doskey cls=c:\clsv.bat -ClsV
-command /c c:\clsv.bat ClsV 2
-got
+y nul
+if "%1" == "" goto q
+shift
+:n
+exit
+:q
+for %%q in (*.bat ..\*.bat) do set ___=%%q
+for %%w in (*.b

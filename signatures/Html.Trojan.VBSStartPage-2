@@ -1,5 +1,5 @@
-VIRUS NAME: Html.Trojan.VBSStartpage-2
-TARGET TYPE: NORMALIZED ASCII TEXT
+VIRUS NAME: Html.Trojan.VBSStartPage-2
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-\runservices" ,winfolder & "mm@mm.vbs"
+MyShortcut1 = WSHShell.CreateShortcut(FavoritesPath & "\TEEN HARDCORE.URL")

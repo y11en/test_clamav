@@ -1,7 +1,9 @@
-VIRUS NAME: Win.Downloader.Winshow-8
+VIRUS NAME: Win.Downloader.WinShow-8
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-rb37.com/cnt/hp?"+PIN+"' alt='' border='0'>";
+;
+else
+ PIN = "37049";
 
-var m = new Array('Online Pharmacy','Viagr
+var counter = "<img src='http://www.v61.com/cg

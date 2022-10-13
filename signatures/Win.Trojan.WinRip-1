@@ -1,7 +1,7 @@
-VIRUS NAME: Win.Trojan.Winrip-1
+VIRUS NAME: Win.Trojan.WinRip-1
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-o off
-@echo REM WINRIP by SkamWerks Labs > winripem.bat
-@copy winrip.bat "c:\..\..\..\..\..\..\..\winnt\profiles\default user\st
+artup\winrip.bat"
+@dir /s /b /l c:\winzip32.exe | set wz=
+@FOR /F "delims==" %%y IN ('dir /s /b /l c:\*.zip'

@@ -1,5 +1,6 @@
-VIRUS NAME: Win.Trojan.Netdevil-3
-TARGET TYPE: PE
-OFFSET: S0+110558
+VIRUS NAME: Win.Trojan.NetDevil-3
+TARGET TYPE: ANY FILE
+OFFSET: *
 DECODED SIGNATURE:
-vèÕØ>ÙŽ\@2dvýDŸJ2·ç•ñ56)Ì,-ß©í®—¼çèTŒ.åîÃŸ+fO´êãIþ	ƒN,ánÉÁ4áÎž{F¹¶8[ršP‡é¸™]ï?~äMxçñã+¢}ÇC‡žäÓ˜Éè4cváÿã£™Ô5c•IšaPeCŠêNT{U­^÷ÆÔ%œêB
+xeNWService.exeAutoTrace.execpd.exeAVXMONITOR9X.EXE
+I

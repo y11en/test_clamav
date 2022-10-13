@@ -1,5 +1,5 @@
-VIRUS NAME: Win.Trojan.Onlinegames-17
+VIRUS NAME: Win.Trojan.OnLineGames-17
 TARGET TYPE: PE
-OFFSET: EP+0
+OFFSET: S0+80
 DECODED SIGNATURE:
-U‹ìS‹]V‹uW‹}{WILDCARD_ANY_STRING}/manage/ffxi2009/get.asp{WILDCARD_ANY_STRING}pol.exe
+Ê™h¢#÷!¹sîx	 $íüê	[qT9¡SúOŽµZ°‹Ž™D‘Óg¾¥=0=2ÒÇvÉ(ký¤—ÓÇéKå=š:B‡ûjgJõ‚Y5“o÷ègOa	 •®_Zk˜Á¦m×d&Ö±§¾¾Ô`	²©¼k,Ç¬’å˜µ?NNMÇ£à¸ø@ 07

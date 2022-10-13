@@ -1,5 +1,6 @@
-VIRUS NAME: Win.Trojan.OnlineGames-66
-TARGET TYPE: NORMALIZED ASCII TEXT
-OFFSET: *
+VIRUS NAME: Win.Trojan.OnLineGames-66
+TARGET TYPE: PE
+OFFSET: S0+80
 DECODED SIGNATURE:
-shell\open\command=se12ydam.exe
+582xÚ&aHêO®›“º,m(ÃÊ}YV•ùÆlç2ÈäGŠâÖs¸çàÕ%Tš².“GÀ¥¹
+—›äã7ú[«“Õ»S‹ÿþvRMÉõÆíÛ,;úö,N±uaLs’«gºÝ·Í£³òtïVßzf½Å9-¢):¿G·Õt<ZÚJUtté·‰àÎ;

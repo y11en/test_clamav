@@ -1,5 +1,5 @@
-VIRUS NAME: Doc.Trojan.ZMK-7
+VIRUS NAME: Doc.Trojan.Zmk-7
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-sgBox "Attention, ce menu n'est pas autorisé...", vbCritical, "Virus WNW(WeekNoWork)"
+WC98$ = WordBasic.[GetPrivateProfileString$]("Pronostic", "Equipe", "WorldCup98.INI")

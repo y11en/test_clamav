@@ -1,6 +1,5 @@
-VIRUS NAME: Win.Worm.Somefool-4
-TARGET TYPE: PE
-OFFSET: S4+18707
+VIRUS NAME: Win.Worm.SomeFool-4
+TARGET TYPE: ANY FILE
+OFFSET: *
 DECODED SIGNATURE:
-&H” üô¨%Àa7´¤)NeGkeëYÏÄ§á9{z$ETM1d/®Q=4|Jé]‘*xoÝ
-vÌ8îvÌŽ²UÎDµjëÕ•tu?ÂÓVj¼­õ»R9üGû¸Ñ¶ÓðXsß€ˆEÖ­i©×–%f~+É¢¥ÚðzèO ãR<Å˜Þ‡M&[tBF¤ñÄè±õ@
+LÖT¤S¨hjäïWÞC‰ˆ~qØ«nW‘º!2Ä'8Ð…©7QûD†`ðÿ¶Ôq‘m8ø\i8&œDôÜh4­•Ñ’›`ƒ"¸ý!¿œÊpF”"“ÑW[Ô!Œjô«-ñ€Qºê“+lð0QxTÁü£ZšºEaå`,`,Œ²z»Ì,J,V6X(Ó7ôºX

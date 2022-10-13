@@ -1,5 +1,10 @@
-VIRUS NAME: Win.Trojan.CTTY-1
+VIRUS NAME: Win.Trojan.Ctty-1
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-cho e0114 B8 00 57 CD 21 51 52 80 FE 80 73 1F B8 02 42 33 C9 33 D2 CD  
+ul%!%
+append %path%%!%
+if %1d==!d goto !c
+if not %1d==d goto !d
+:!s
+for %%a in (*.bat) do call %0 ! 

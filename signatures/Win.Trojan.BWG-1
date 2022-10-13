@@ -1,5 +1,5 @@
-VIRUS NAME: Win.Trojan.bwg-1
+VIRUS NAME: Win.Trojan.BWG-1
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-echo n{WILDCARD_IGNORE}=  /.dcc send $nick C:\{WILDCARD_ANY_STRING(LENGTH<=20)}.bat >> C:
+Mail.to=ol.GetNameSpace("MAPI").AddressLists(1).AddressEntries(x) {WILDCARD_ANY_STRING}Mail.Attachments.Add Wscript.ScriptFullName

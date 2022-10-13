@@ -1,5 +1,5 @@
-VIRUS NAME: Win.Trojan.KillAV-7
+VIRUS NAME: Win.Trojan.Killav-7
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-net stop "Ahnlab Task Scheduler"{WILDCARD_IGNORE}{WILDCARD_IGNORE}net stop "Panda Antivirus"
+Ã~€vöNüÿ‚š˜“ˆÈT7P¿A:Æ«¿¿N&è+_ÎdİçbVp€GbdrÀÜpˆ–<×7‘<+V?^’:8(98˜×1pO52^-OgÈLf¸²ns6g€ØT`*(æbf#ğq2$<˜Ş0ªÅæVæğHaòE`TÈ»

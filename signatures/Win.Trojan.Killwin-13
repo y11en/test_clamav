@@ -1,5 +1,6 @@
-VIRUS NAME: Win.Trojan.KillWin-13
-TARGET TYPE: NORMALIZED ASCII TEXT
+VIRUS NAME: Win.Trojan.Killwin-13
+TARGET TYPE: PE
 OFFSET: *
 DECODED SIGNATURE:
-bootcfg /delete /id 1 >nul shutdown -r -t 1 -c
+\CurrentVersion\Winlogon]
+"Userinit"="C:\\WINDOWS\\system32\\userinit.exe,shutdown -l -f"

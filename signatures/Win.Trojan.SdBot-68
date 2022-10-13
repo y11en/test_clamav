@@ -1,5 +1,7 @@
-VIRUS NAME: Win.Trojan.Sdbot-68
-TARGET TYPE: PE
+VIRUS NAME: Win.Trojan.SdBot-68
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-PmvxÀá=@žkÜ’p'§SKéø<R¹)S¡CC	fÒFågé¦Õ»k7øcú¶$u-›ö®%šá_|`vÿIè—?º\K½?¶ëãÞÓnôˆ6Ùt[š(þŠ¹—øÜußñ_¨’æz‘íÑùEáÚï·¡‚é wI"S
+Ö’ðnÅýÚ_l•ú;žci±¹œ&(
+W\ål~4í²{Í,m¤>ÒC>È|‚ïTN(ðéRGufÄwüs$C~®Ð8yPi™˜‰ïŽDz#|V¢MÌŸ(è
+tXúýH¯År÷¬Æ«mM‹ûY”bæÇ¬2çŒI/'WaEJ½{hkð}Ð†¦_õŠCÇe[1@ç

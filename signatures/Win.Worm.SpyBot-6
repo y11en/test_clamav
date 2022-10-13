@@ -1,5 +1,6 @@
-VIRUS NAME: Win.Worm.Spybot-6
-TARGET TYPE: PE
-OFFSET: S0+31876
+VIRUS NAME: Win.Worm.SpyBot-6
+TARGET TYPE: ANY FILE
+OFFSET: *
 DECODED SIGNATURE:
-è;Òa1:k_/wFäè~ôÁËÑË!((gÅ+T“Ps\uàÁS•®ëäê9+|u…NGÿo2U­8HËf6Éhì4+55£Ó5F•·/bñ©Í¾rn¼‰LØ€Rè®aVV1H;ãawVÃÖÆú\îÔs%7àà¢ƒÏqÉÏ–>)=quòîå­Cm	®$c~À
+±Ä{þ¢…jUìŠtéÁæ›âB¦
+C pm}E6®Æì¡˜Vå…åw´Ž÷[®P½ïó-¨4ƒë7?¼£ÄšÚX—G—+SU

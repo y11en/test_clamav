@@ -1,7 +1,5 @@
-VIRUS NAME: Dos.Trojan.DelWin-12
+VIRUS NAME: Dos.Trojan.Delwin-12
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-del c:\Windows\Command.com
-cls
-del c:\Windows\*.ini
+el c:\windows\command\*.* >> c:\autoexec.bat{WILDCARD_IGNORE}{WILDCARD_IGNORE}@echo subst d: a:\ >> c:\autoex

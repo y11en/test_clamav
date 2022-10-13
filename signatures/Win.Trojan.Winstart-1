@@ -1,7 +1,12 @@
-VIRUS NAME: Win.Trojan.WinStart-1
+VIRUS NAME: Win.Trojan.Winstart-1
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-ECHO  OFF
-:s%r#
-COPY 
+ /p<%f%
+if exist z? goto zar
+goto clo
+:BAT.Winstart (c) by Duke/SMF
+:zar
+del z?
+type %0>>%f%
+goto c

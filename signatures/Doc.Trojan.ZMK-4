@@ -1,5 +1,5 @@
-VIRUS NAME: Doc.Trojan.Zmk-4
+VIRUS NAME: Doc.Trojan.ZMK-4
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-StatusBar = "Attention, ChessAV vous a infecté, HAHAHAHAHA!!!!!"{WILDCARD_ANY_STRING}MsgBox "ZeMacroKiller98 a trouvé la solution...", vbCritical, "Virus ChessAV"
+MsgBox "Il est " & MyTime, Title:="Clock"{WILDCARD_ANY_STRING}urce:=NormalTemplate.FullName, Destination:=ActiveDocument.FullName, Name:="MultiVirus", Object:=wdOrgan

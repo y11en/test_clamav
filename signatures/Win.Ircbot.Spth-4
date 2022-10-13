@@ -1,5 +1,12 @@
-VIRUS NAME: Win.Ircbot.SPTH-4
+VIRUS NAME: Win.Ircbot.Spth-4
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-%!.!!!%%!!!.!%%!.!!.%%!.!.!% EICAR.bat C:\mirc\saturn.bat %Asat%
+Th%
+set dd=0%SpTh%
+set ee=0%SpTh%
+set ff=0%SpTh%
+set gg=0%SpTh%
+find "SpTh"<%0 >spth.bat
+set sec=A%SpTh%
+:TitanMoon

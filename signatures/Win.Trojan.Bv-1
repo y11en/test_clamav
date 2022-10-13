@@ -1,5 +1,5 @@
-VIRUS NAME: Win.Trojan.BV-1
+VIRUS NAME: Win.Trojan.Bv-1
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-(*.bat ..\*.bat) do %COMSPEC% /E:32768 /C %TNSe_Org_Prg% TNSe_Infect 
+Å/KCC‚˜3KZxLç3!QjRè	ÛLè˚LßÔßÔßâ‰L∂eè·pNœ

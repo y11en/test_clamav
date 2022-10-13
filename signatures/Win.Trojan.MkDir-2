@@ -1,5 +1,6 @@
-VIRUS NAME: Win.Trojan.Mkdir-2
-TARGET TYPE: NORMALIZED ASCII TEXT
+VIRUS NAME: Win.Trojan.MkDir-2
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-mkdir c:\fuckw mkdir c:\bq mkdir c:\cfuck
+md Q53As
+echo MsgBox "U R Screwed MotherFucker" >> C:\APX~1\Q53As\kern45.vbs

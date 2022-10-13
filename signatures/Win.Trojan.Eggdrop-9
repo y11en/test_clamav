@@ -1,5 +1,6 @@
-VIRUS NAME: Win.Trojan.EggDrop-9
+VIRUS NAME: Win.Trojan.Eggdrop-9
 TARGET TYPE: PE
-OFFSET: S1+71414
+OFFSET: S0+72659
 DECODED SIGNATURE:
-›Nmb+È»ŒUYK!ž¤1mBAz~V9HÐ¯Bb4U[DWX©-šÃŸèÇ1®}M&Ó…MN(öc½ÝYÏö*U—Ùï‡é-îS.Ò	Ú®5å_äÞŸØ4 ƒÑ“Þ×õl‡yò™ûâ N,·9†ÛÏÜgseõé³lÅ„ËWPÙüÿ2ÝªŸËÄ{îb÷
+ëv|©¼alZ¾7¢^•
+ÝÂÐË~Õç„ÓÊÖ£^Ö7DJ×P<%tI@g`2üèj|ßžpJç2b“ÁZj®™ïJ”Eä™êêïn£.Šüys[ýÐåŠwŠóõ¾¢êµåÉO’íñçšQÀ¿Fh]Dž”;ó

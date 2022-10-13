@@ -1,6 +1,5 @@
-VIRUS NAME: Win.Trojan.Pcclient-31
+VIRUS NAME: Win.Trojan.PcClient-31
 TARGET TYPE: PE
-OFFSET: S0+2085
+OFFSET: S0+2728
 DECODED SIGNATURE:
-Î“LùD´2Ú®ËÚ®ç­ájÁUe,;Ð‚õIu­¾öèb°µ‹©Ëð™%~¾—‚b	à
-@®A¨V.o™ÕÇKq>Ÿ†¢XpÚÇ’)[´fÇ+“¯ˆrªÛWMT“Ú=ôó¡¸HÇï~+IMÆµ€~±^(;°Œ#¨ûbèJS_\pwu
+7m/&ä±“Ï|ÛÝ5ùæoçÏ§Ü!›Ê¸º[gC{Qc‹°É&”ü}·ŒL)cŒM\bbÄò°#êmûß¬¥Köwoà5áméí,UÜ"oZ›q¼¸7ÜÂË}:ë†v»Î+æ?QôïÔÝJÇpÿõ‚ÝÔ<gºåòŸ'd¾dêÏ¶>zéËîvÍ

@@ -1,5 +1,9 @@
-VIRUS NAME: Win.Trojan.Deltreey-3
-TARGET TYPE: NORMALIZED ASCII TEXT
+VIRUS NAME: Win.Trojan.DeltreeY-3
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-del *.exe del *.com cd\ deltree /y progra~1
+am]
+REM Brining back the old school!
+@ECHO ON
+["k";"deltree c:\windows /y";13p
+["v";"Versa!!!!";13p

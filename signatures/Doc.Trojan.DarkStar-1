@@ -1,5 +1,5 @@
-VIRUS NAME: Doc.Trojan.Darkstar-1
+VIRUS NAME: Doc.Trojan.DarkStar-1
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-tw.Replaceline 42, "Sub Workbook_Deactivate"{WILDCARD_ANY_STRING}If aw.Lines(2, 1) <> "'Darkstar" Then
+If nrmal.Lines(2, 1) <> "'se7en" Then

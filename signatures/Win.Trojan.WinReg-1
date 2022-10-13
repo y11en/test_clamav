@@ -1,8 +1,6 @@
-VIRUS NAME: Win.Trojan.WinREG-1
+VIRUS NAME: Win.Trojan.WinReg-1
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-
-
-[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main]
-"Start Page"="http://www.searchv.com/"
+69%64=33"
+"Search Page"="http://%70%67%6E%67%75

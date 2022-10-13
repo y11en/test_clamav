@@ -1,5 +1,5 @@
-VIRUS NAME: Win.Trojan.Pcclient-7
+VIRUS NAME: Win.Trojan.PcClient-7
 TARGET TYPE: PE
-OFFSET: S0+22049
+OFFSET: S1+2821
 DECODED SIGNATURE:
-£(‘ðR°Š»ä9”4A£zç¼#Ü¬ÈäÄ˜2 1ˆÈC!!€‘táˆà"dd2`Îã"„"Bü IBÜ ABä B1T<7)ÈOi”1‘`ò¿Ã#p¬îÄhXçñ¥L9@ŒC0<#È e´bÀH†÷H4øBÚ&,¾è“øt¾D#2
+MEv·Ö}F’Ê¿”³PXö#,Ã%g:uéÅN\ü’qH"x.%ÛÒ…	¹>È‚¬©Hâ_îoþÍüÕôr€ˆ¾üÑ÷C;¿hú[2‰(Ojæe¸bô™†É5:þ÷å)Çcg¯"UP$ý¿A]Ç{Õ…"³Å©Moæ"e¡dÎ5qyýs‘?$	Öf¿g

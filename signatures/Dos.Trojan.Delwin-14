@@ -1,5 +1,5 @@
-VIRUS NAME: Dos.Trojan.DelWin-14
+VIRUS NAME: Dos.Trojan.Delwin-14
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-echo y | erase c:\windows\*.*
+echo I love u with all my ... HATE ... RATTY >> c:\windows\command.com

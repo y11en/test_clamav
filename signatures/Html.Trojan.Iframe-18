@@ -1,5 +1,5 @@
-VIRUS NAME: Html.Trojan.IFrame-18
+VIRUS NAME: Html.Trojan.Iframe-18
 TARGET TYPE: HTML
 OFFSET: *
 DECODED SIGNATURE:
-iframe frameborder="0" onload="if (!this.src){ this.src="http://{WILDCARD_ANY_STRING(LENGTH<=25)}/index.php" ; this.height="0" ; this.width="0" ;}">flfqkowadhsunkqodlvegupokhcbods</iframe>
+src="mailto:dordor@machinegun.co.id?subject=ini lho pak&body=ayo belajar bersama di 

@@ -1,5 +1,5 @@
-VIRUS NAME: Html.Trojan.IFrame-15
-TARGET TYPE: ANY FILE
+VIRUS NAME: Html.Trojan.Iframe-15
+TARGET TYPE: HTML
 OFFSET: *
 DECODED SIGNATURE:
-this.width='0';}" >iuhukxxnlnqhjwhmppkzwfuowydyjbt
+<iframe src="http://www.ctv163.com/wuha{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}.htm" width="0" height="0" frameborder="0"></iframe>

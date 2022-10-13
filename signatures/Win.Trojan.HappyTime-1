@@ -1,5 +1,8 @@
-VIRUS NAME: Win.Trojan.Happytime-1
-TARGET TYPE: HTML
+VIRUS NAME: Win.Trojan.HappyTime-1
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-iamsorry!happytime{WILDCARD_ANY_STRING}c:\help.htm{WILDCARD_ANY_STRING}\untitled.htm
+Rem I am sorry! happy time  
+On Error Resume Next  
+mload  
+Sub mload()  

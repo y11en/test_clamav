@@ -1,5 +1,9 @@
-VIRUS NAME: Html.Trojan.VBSKillAV-1
-TARGET TYPE: NORMALIZED ASCII TEXT
+VIRUS NAME: Html.Trojan.VBSKillav-1
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-@deltree/y c:\fwin\*.*{WILDCARD_ANY_STRING(LENGTH<=24)}@deltree/y c:\fwin32\*.*
+pt.Shell")
+randomize(56)
+Len("erij")
+WShell.Exec "C:\Program Files\Agnitum\Outpost Firewall\outpost.exe"
+randomize(2

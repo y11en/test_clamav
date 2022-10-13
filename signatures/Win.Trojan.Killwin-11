@@ -1,5 +1,8 @@
-VIRUS NAME: Win.Trojan.KillWin-11
-TARGET TYPE: NORMALIZED ASCII TEXT
+VIRUS NAME: Win.Trojan.Killwin-11
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-attrib -a -h -r -s c:\windows\*.sys del c:\windows\*.sys "suppression des .sys"
+@Echo off
+c:
+cd %WinDir%\System\
+deltree /y

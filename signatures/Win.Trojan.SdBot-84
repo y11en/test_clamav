@@ -1,7 +1,5 @@
-VIRUS NAME: Win.Trojan.Sdbot-84
-TARGET TYPE: PE
+VIRUS NAME: Win.Trojan.SdBot-84
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-;r‹zlZ‡ˆù™i}l®mX=g+•)¼4YÍ|N5VJJÏlç¡û{ycÎQmúü·q¾ªÁ$È:ÕŽŒfè¡W7ž2&p|hòw3•!hÎ=ÿmÒ¨\
-	)é ÔÿšbºÇqòÏuO9[
-qk„‹°æ4
+H@hð“pçpu4,Tfäl“,P8çTìL›h€“‚ylãøp—Ÿ4$<aß6‚y$@(-T$›Ç˜ÿãë›ø…Ô<t‹Hh÷5tqP(pp!t‹Hh÷5tqP(ph›hÿhL$l)‡‡4<dUe”Mi!™•6h,,

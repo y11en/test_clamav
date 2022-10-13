@@ -1,5 +1,8 @@
-VIRUS NAME: Html.Trojan.IFrame-20
-TARGET TYPE: NORMALIZED ASCII TEXT
+VIRUS NAME: Html.Trojan.Iframe-20
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
 OFFSET: *
 DECODED SIGNATURE:
-f = document.createelement('iframe'); f.style.visibility = 'hidden'; f.src = 'http://'+{WILDCARD_ANY_STRING(LENGTH<=200)} document.body.appendchild(f);
+<iframe src={WILDCARD_ANY_STRING(LENGTH<=50)}width="0" height="0" frameborder="0"></iframe>
+</body>
+</html>

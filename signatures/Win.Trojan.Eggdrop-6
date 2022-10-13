@@ -1,6 +1,6 @@
-VIRUS NAME: Win.Trojan.EggDrop-6
+VIRUS NAME: Win.Trojan.Eggdrop-6
 TARGET TYPE: PE
-OFFSET: S0+12
+OFFSET: S0+66588
 DECODED SIGNATURE:
-¥mFˆ×IGr:¡Ý\€cOØ>R9$äIüH
-ì¶8” ë\‰NmÓqdSfæÁ4iÀÚ§„VÁ&r[{UáeÆ°4#žœMÉâj:?FB‡&ò{Qè­Ã¯þdÃ AIî,D‡ `ò3~©æï_&pNù
+c[l"¨£ÍU_Ô¤óS¤H¿kÎl\[Ê{CJuQr³v•·,¬ÇMD-3scAAÁ¸†ûÖ<›kƒäildï{cÖÀ
+ç›ý!(»@Ôƒ¿ü-»)»·}V8î÷w!2Åó¹éîŽôŒ;¸ôÇ¼~=Á‘íK&«À!éŒXŒápz5È%Æ%à§¼}Éø§ƒ

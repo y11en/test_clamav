@@ -1,6 +1,5 @@
-VIRUS NAME: Win.Trojan.MulDrop-9
+VIRUS NAME: Win.Trojan.Muldrop-9
 TARGET TYPE: PE
-OFFSET: S0+12
+OFFSET: S1+12
 DECODED SIGNATURE:
-_°
-CFΩQΦªΪPf«M–ω9c=ο':f¤EΐP΄ebA²°διωqύΕ(ψ;GdOΘΫIkΊ³^μg;ƒ[άλάw„ΘυήVGΡw―φ/Ι‘²λρƒ&³ν.½¥ιKI_¤5&HzKα³ο-O*τ
+2$ª<£Κω|LΈ‰«>Ϋ`SΔκΜU›gσ†Ό#Ρl+B&Σ³υΉώd«ΏY;¤ΜπA΄Λθ"³΅ΐQtλa=Eί]tΎ? ΕrςΈbuΎ®:|ΫλaYΨOΦΓξyW^¨)\»LτyΪθτK·”όz’Χ‡―^_x‘-π

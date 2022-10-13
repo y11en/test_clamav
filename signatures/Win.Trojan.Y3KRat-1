@@ -1,6 +1,7 @@
-VIRUS NAME: Win.Trojan.Y3kRat-1
-TARGET TYPE: PE
-OFFSET: S0+80
+VIRUS NAME: Win.Trojan.Y3KRat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
 DECODED SIGNATURE:
-„}Ð‚5IbM&ù°4ƒyËRó™ÌêþÎŸ‡?÷¹ÈÞäÞ\Ð[ÎÀ­®Àµ ½­Ù
-$ôÉ®Am2zäòæÁôÍƒÕÍƒé¹ Ûro3a{\·™«‹>÷ÿÿý~ÿz|ù÷çŸ~}ù÷Ï¿à½ÿƒ2ÂH%&+UªÓg²ï„Étÿ
+®;ß]AÐ.€ærp8…¨Ìá`Ð®XVA¨+V
+¨TÂ¤§ƒ@oaN
+`0bÁEð^°ž„ì

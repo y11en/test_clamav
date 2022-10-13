@@ -1,5 +1,5 @@
-VIRUS NAME: Doc.Trojan.Zmk-2
+VIRUS NAME: Doc.Trojan.ZMK-2
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-Application.Caption = "° Microsoft Word"{WILDCARD_ANY_STRING}f ActiveDocument.VBProject.VBComponents(j).Name = "ozwer" Then Dch = True
+sgBox "T'as eu quelque(s) réponse(s) de fausse!!!" & Chr$(13) & "Dommage pour toi!!!", vbInformation, "GamesVirus"

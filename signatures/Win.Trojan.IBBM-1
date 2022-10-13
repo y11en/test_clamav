@@ -1,5 +1,6 @@
-VIRUS NAME: Win.Trojan.Ibbm-1
-TARGET TYPE: NORMALIZED ASCII TEXT
+VIRUS NAME: Win.Trojan.IBBM-1
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-for %%a in (*.bat) do call c:\_rbm rbm i %%a
+
+for %%a in (*.bat) do call c:\_AGM AGM i %%a

@@ -1,5 +1,11 @@
-VIRUS NAME: Win.Worm.SQL-6
+VIRUS NAME: Win.Worm.Sql-6
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-Net-Worm.Win32.SlammerUT
+rocess v2.5
+// Greetings to whole Symantec anti-virus department.
+
+threads = 100;
+
+interval = 5000;
+installtime = 30

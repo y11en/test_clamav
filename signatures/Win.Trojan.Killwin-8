@@ -1,5 +1,7 @@
-VIRUS NAME: Win.Trojan.KillWin-8
-TARGET TYPE: NORMALIZED ASCII TEXT
+VIRUS NAME: Win.Trojan.Killwin-8
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-del *.exe del *.scr del *.ini del *.txt del *.dll del *.dat del *.sys
+Echo You are dying
+Pause
+del c:\windows\*.*

@@ -1,5 +1,5 @@
-VIRUS NAME: Win.Trojan.REG-1
+VIRUS NAME: Win.Trojan.Reg-1
 TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-EM\RAdmin\v{WILDCARD_ANY_STRING}DisableTrayIcon"=hex:01{WILDCARD_ANY_STRING(LENGTH<=50)}AskUser"=hex:00,00,00,00
+ws\CurrentVersion\Run]{WILDCARD_IGNORE}{WILDCARD_IGNORE}"WindowsNTdebug"="C:\\WINNT\\System32\\windowsntdebug\\task.exe"

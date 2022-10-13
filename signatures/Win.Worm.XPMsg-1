@@ -1,5 +1,6 @@
-VIRUS NAME: Win.Worm.Xpmsg-1
-TARGET TYPE: HTML
+VIRUS NAME: Win.Worm.XPMsg-1
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-fw:nudepic{WILDCARD_ANY_STRING(LENGTH<=8)}.htmlbody=document.body.outerhtml
+Subject = "Fw: Nude Pic"
+		MsgItem.HtmlBody = Document.Body.Out

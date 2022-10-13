@@ -1,5 +1,5 @@
-VIRUS NAME: Win.Trojan.Sdbot-39
-TARGET TYPE: PE
+VIRUS NAME: Win.Trojan.SdBot-39
+TARGET TYPE: ANY FILE
 OFFSET: *
 DECODED SIGNATURE:
-VCÚ-®%hÒpÊAw´6X2÷ÿ‡8éÎ	;‰òóu)8{s…h9äh$ë¸Fq½<šYžñw"©mÄ« ]Å˜`Òò¤!ÌÓ“]LIÃ[()Ç–¶®PÒˆö¬,¯œR¼y™Vé öp€Oö,’ÿ¨$‚,J{
+ÒF*Ðî:óPŽ¯// @ioi¯//ÒF*R\þ®ïïÐî:L²Vþ®ïïR\>®ïïêpÐîºLµÒN1ïB,ï@.Å)¢ñ//Ò%EQF*êðÒN1ÐN'/qON,Fo//Žñá@,Fo//Ð>,sÀ/oŽ2‰0Ä)_gïïEEêòW)óÀ/‘0Ð'0P7Ò@,ïB,Pµï@

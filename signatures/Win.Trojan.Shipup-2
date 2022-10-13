@@ -1,6 +1,5 @@
-VIRUS NAME: Win.Trojan.ShipUp-2
+VIRUS NAME: Win.Trojan.Shipup-2
 TARGET TYPE: PE
-OFFSET: S3+11168
+OFFSET: S4+13264
 DECODED SIGNATURE:
-YÙ1rS§=~§Æ¢^¦úLLrde™‡æoklmn5-B²ò˜ufwxûGX'3
-rçÿ ‡”—ý`bðsrqpÕ¶—Ù²›™¯‡êht¡_Ÿº#ÒÒ¤(+¬­®·°±²X†ˆ·0ÏÏ·=<¿ÀÁ{ãÄÅ-ØõAM¼ú
+345w*9:Q8U>@A)DºÓI	JÂÉ¤.PºSð[âÛ†ZÐÉŠ`à ›defÜoijkG­?„tš™wîž·wÚ¹[--ôú>IËÆ‡6èÏq3ÛÙgŽMml~’|spgõm;ÿÿù
