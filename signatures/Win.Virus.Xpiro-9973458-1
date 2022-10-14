@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Xpiro-9973458-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Probeer de installatie opnieuw uit te voeren wanneer u verbinding hebt met een ander netwerk waarvoor geen beperkingen g
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+U kunt de toepassing zo opnieuw starten of u kunt Office Web Apps proberen te gebruiken zolang het probleem niet is verh
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+taversie van een Office-product op uw computer gevonden, waardoor de installatie niet kan worden uitgevoerd.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Voor de installatie zijn administratorbevoegdheden nodig om wijzigingen op uw computer aan te brengen. 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Vraag uw systeembeheerder om u te helpen als u deze machtigingen niet kunt toewijzen om de installatie uit te voeren.

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-9973157-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RemoveAppxInUserContext::rundll32.exe not found on machine. Exiting Custom Action now.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKEY_USERS\[USER_SID]\SOFTWARE\Google\Chrome\NativeMessagingHosts\com.adobe.acrobat.chrome_webcapture
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RemoveAppxInUserContext::Going to find rundll32.exe from system32 folder...
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RemoveAppxInUserContext::ANCUtility.dll not found on machine. Exiting Custom Action now.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+D:\B\T\Imports\Open\rapidjson\include\rapidjson\reader.h
